@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1090586376485",
+    "project_id": "cunhatem-app",
+    "storage_bucket": "cunhatem-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090586376485:android:dda8238f274b74b15442cc",
+        "android_client_info": {
+          "package_name": "br.com.app.gpuu2578177.gpuu8a8d5ccfc67742ddc9d4645c75ba8823"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuE3hFoABoZ25zNe0RI9D35LWbP6E-f7Q"
+        },
+        {
+          "current_key": "AIzaSyBuWGwVbNpLBLVXDaY_pRPLFs7BDSbYX6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090586376485:android:52c87f085603efa05442cc",
+        "android_client_info": {
+          "package_name": "br.com.fabricadeaplicativos.app2578177a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuE3hFoABoZ25zNe0RI9D35LWbP6E-f7Q"
+        },
+        {
+          "current_key": "AIzaSyBuWGwVbNpLBLVXDaY_pRPLFs7BDSbYX6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "eventos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "lixeira",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "visivel",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "termina_em",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "locais",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "visivel",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nome",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}
